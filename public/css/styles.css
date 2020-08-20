@@ -1,0 +1,14 @@
+.custom-form {
+  margin-left: 71%;
+}
+.custom-anchor {
+  cursor: pointer;
+}
+.custom-anchor:hover {
+  color: forestgreen !important;
+}
+@media (max-width: 765px) {
+  .custom-form {
+    margin-left: 27%;
+  }
+}
